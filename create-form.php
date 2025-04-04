@@ -90,14 +90,14 @@
           </div>
   
           <div class="form-submit">
-              <button class="button" type="submit">
+              <button style="cursor: pointer;" class="button" type="submit">
                   <svg class="button__icon" viewBox="0 0 34.7163912799 33.4350009649">
                       <g style="fill: none; stroke: currentColor; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px;">
                           <polygon points="20.6844359446 32.4350009649 33.7163912799 1 1 10.3610302393 15.1899978903 17.5208901631 20.6844359446 32.4350009649"/>
                           <line x1="33.7163912799" y1="1" x2="15.1899978903" y2="17.5208901631"/>
                       </g>
                   </svg>
-                  Save!
+                  Save
               </button>
           </div>
       </form>
